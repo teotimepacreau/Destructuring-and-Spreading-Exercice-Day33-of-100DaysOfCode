@@ -1,5 +1,5 @@
 # Destructuring and Spreading Exercices from #30DaysOfJavascript
-// https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md
+https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md
 
 # Learning
 - destructuring arrays and objects
